@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecureCell</string>    
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+    <string name="startButton">Start App</string>
+    <string name="triggerClass">You have entered password worng for 3 times.</string>
+    
+
+</resources>
